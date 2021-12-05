@@ -1,0 +1,5 @@
+Number of unique words
+Raw Corpus 	     :  74837
+Porter Stemmer       :  57226
+SnowBall Stemmer     :  56971
+WordNet Lemmatizer   :  69017
